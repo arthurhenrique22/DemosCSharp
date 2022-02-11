@@ -1,0 +1,15 @@
+C:\Users\arthu\Desktop\DemoRefVal\bin\Debug\net6.0\DemoRefVal.exe
+C:\Users\arthu\Desktop\DemoRefVal\bin\Debug\net6.0\DemoRefVal.deps.json
+C:\Users\arthu\Desktop\DemoRefVal\bin\Debug\net6.0\DemoRefVal.runtimeconfig.json
+C:\Users\arthu\Desktop\DemoRefVal\bin\Debug\net6.0\DemoRefVal.dll
+C:\Users\arthu\Desktop\DemoRefVal\bin\Debug\net6.0\ref\DemoRefVal.dll
+C:\Users\arthu\Desktop\DemoRefVal\bin\Debug\net6.0\DemoRefVal.pdb
+C:\Users\arthu\Desktop\DemoRefVal\obj\Debug\net6.0\DemoRefVal.csproj.AssemblyReference.cache
+C:\Users\arthu\Desktop\DemoRefVal\obj\Debug\net6.0\DemoRefVal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\Desktop\DemoRefVal\obj\Debug\net6.0\DemoRefVal.AssemblyInfoInputs.cache
+C:\Users\arthu\Desktop\DemoRefVal\obj\Debug\net6.0\DemoRefVal.AssemblyInfo.cs
+C:\Users\arthu\Desktop\DemoRefVal\obj\Debug\net6.0\DemoRefVal.csproj.CoreCompileInputs.cache
+C:\Users\arthu\Desktop\DemoRefVal\obj\Debug\net6.0\DemoRefVal.dll
+C:\Users\arthu\Desktop\DemoRefVal\obj\Debug\net6.0\ref\DemoRefVal.dll
+C:\Users\arthu\Desktop\DemoRefVal\obj\Debug\net6.0\DemoRefVal.pdb
+C:\Users\arthu\Desktop\DemoRefVal\obj\Debug\net6.0\DemoRefVal.genruntimeconfig.cache
