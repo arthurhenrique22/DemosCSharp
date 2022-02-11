@@ -1,0 +1,15 @@
+C:\Users\arthu\Desktop\DemosPt2\bin\Debug\net6.0\DemosPt2.exe
+C:\Users\arthu\Desktop\DemosPt2\bin\Debug\net6.0\DemosPt2.deps.json
+C:\Users\arthu\Desktop\DemosPt2\bin\Debug\net6.0\DemosPt2.runtimeconfig.json
+C:\Users\arthu\Desktop\DemosPt2\bin\Debug\net6.0\DemosPt2.dll
+C:\Users\arthu\Desktop\DemosPt2\bin\Debug\net6.0\ref\DemosPt2.dll
+C:\Users\arthu\Desktop\DemosPt2\bin\Debug\net6.0\DemosPt2.pdb
+C:\Users\arthu\Desktop\DemosPt2\obj\Debug\net6.0\DemosPt2.csproj.AssemblyReference.cache
+C:\Users\arthu\Desktop\DemosPt2\obj\Debug\net6.0\DemosPt2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\Desktop\DemosPt2\obj\Debug\net6.0\DemosPt2.AssemblyInfoInputs.cache
+C:\Users\arthu\Desktop\DemosPt2\obj\Debug\net6.0\DemosPt2.AssemblyInfo.cs
+C:\Users\arthu\Desktop\DemosPt2\obj\Debug\net6.0\DemosPt2.csproj.CoreCompileInputs.cache
+C:\Users\arthu\Desktop\DemosPt2\obj\Debug\net6.0\DemosPt2.dll
+C:\Users\arthu\Desktop\DemosPt2\obj\Debug\net6.0\ref\DemosPt2.dll
+C:\Users\arthu\Desktop\DemosPt2\obj\Debug\net6.0\DemosPt2.pdb
+C:\Users\arthu\Desktop\DemosPt2\obj\Debug\net6.0\DemosPt2.genruntimeconfig.cache
