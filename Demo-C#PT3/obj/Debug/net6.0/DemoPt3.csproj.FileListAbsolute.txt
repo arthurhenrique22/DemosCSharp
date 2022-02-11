@@ -1,0 +1,15 @@
+C:\Users\arthu\Desktop\DemoPt3\bin\Debug\net6.0\DemoPt3.exe
+C:\Users\arthu\Desktop\DemoPt3\bin\Debug\net6.0\DemoPt3.deps.json
+C:\Users\arthu\Desktop\DemoPt3\bin\Debug\net6.0\DemoPt3.runtimeconfig.json
+C:\Users\arthu\Desktop\DemoPt3\bin\Debug\net6.0\DemoPt3.dll
+C:\Users\arthu\Desktop\DemoPt3\bin\Debug\net6.0\ref\DemoPt3.dll
+C:\Users\arthu\Desktop\DemoPt3\bin\Debug\net6.0\DemoPt3.pdb
+C:\Users\arthu\Desktop\DemoPt3\obj\Debug\net6.0\DemoPt3.csproj.AssemblyReference.cache
+C:\Users\arthu\Desktop\DemoPt3\obj\Debug\net6.0\DemoPt3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\Desktop\DemoPt3\obj\Debug\net6.0\DemoPt3.AssemblyInfoInputs.cache
+C:\Users\arthu\Desktop\DemoPt3\obj\Debug\net6.0\DemoPt3.AssemblyInfo.cs
+C:\Users\arthu\Desktop\DemoPt3\obj\Debug\net6.0\DemoPt3.csproj.CoreCompileInputs.cache
+C:\Users\arthu\Desktop\DemoPt3\obj\Debug\net6.0\DemoPt3.dll
+C:\Users\arthu\Desktop\DemoPt3\obj\Debug\net6.0\ref\DemoPt3.dll
+C:\Users\arthu\Desktop\DemoPt3\obj\Debug\net6.0\DemoPt3.pdb
+C:\Users\arthu\Desktop\DemoPt3\obj\Debug\net6.0\DemoPt3.genruntimeconfig.cache
